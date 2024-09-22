@@ -135,7 +135,7 @@ def main():
     library.add_member(member2)
 
     # Create and add a librarian
-    librarian = Librarian("Mr. Smith", 1)
+    librarian = Librarian("Mr. Batot", 1)
     library.add_librarian(librarian)
 
     # Member borrows a book
